@@ -1311,12 +1311,12 @@
 ../../share/gstreamer/share/vs/2010/wizard/gst-sdk-template.vsz,sha256=MlrZsQpcmuK05dtkl6XtLqcI1YerzNTX17lbaStddR8,210
 ../../share/gstreamer/share/vs/2010/wizard/gst-sdk-template.vsz.duplicate1,sha256=MlrZsQpcmuK05dtkl6XtLqcI1YerzNTX17lbaStddR8,210
 kivy_deps.gstreamer-0.3.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
-kivy_deps.gstreamer-0.3.3.dist-info/METADATA,sha256=oxH0K0_vYlGxGtHkS-8W5FIwXCJ5jBMSvuYAJKoLE_s,211
+kivy_deps.gstreamer-0.3.3.dist-info/METADATA,sha256=rTFDOg7-YQUWx28qa0DYBPRKQ38XM32gzMuEWg6IJGM,238
 kivy_deps.gstreamer-0.3.3.dist-info/RECORD,,
 kivy_deps.gstreamer-0.3.3.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
-kivy_deps.gstreamer-0.3.3.dist-info/WHEEL,sha256=TxwUeV-3HEbjjXVQ7qnUZIKQ4IinhZYV_rmkwq84M_Y,102
+kivy_deps.gstreamer-0.3.3.dist-info/WHEEL,sha256=fVcVlLzi8CGi_Ul8vjMdn8gER25dn5GBg9E6k9z41-Y,100
 kivy_deps.gstreamer-0.3.3.dist-info/top_level.txt,sha256=YMwhIe4C46UWpn5ggwslPdp7LkNw5RbCnvMcqI6e78Q,10
 kivy_deps/__init__.py,sha256=h-QyvMVzDNpT3jyVskcSbUVFXxGCRxieFPrvTveZG9k,64
-kivy_deps/__pycache__/__init__.cpython-311.pyc,,
-kivy_deps/gstreamer/__init__.py,sha256=3KP0PrcC34VqzqM72xVXMcoXWcADzTQ8mHB7YP9wR3M,1047
-kivy_deps/gstreamer/__pycache__/__init__.cpython-311.pyc,,
+kivy_deps/__pycache__/__init__.cpython-39.pyc,,
+kivy_deps/gstreamer/__init__.py,sha256=FHAwVsMsQhyd2D1_VoGHfYvxGoHo5gDJm2YkvQtUOVg,1035
+kivy_deps/gstreamer/__pycache__/__init__.cpython-39.pyc,,
